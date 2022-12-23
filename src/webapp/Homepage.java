@@ -3,5 +3,6 @@ package webapp;
 public class Homepage {
 
     //we are making changes
-    //lol
+    //logo
+    //more changes, updates for logo
 }
